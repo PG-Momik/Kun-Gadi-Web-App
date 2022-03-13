@@ -74,3 +74,62 @@
     </div>
   </section>
 
+
+  <!-- Section About Us -->
+  <section id="about-us">
+    <div style="padding: 40px">
+      <h1>About us</h1>
+      <p class="textz"> KunGadi is an easy to use travel assistance android application.
+        Imagine you, a person who uses public transport as a medium of travel.
+        Now imagine u need to go someplace you've never been. Rather than asking every other person for direction,
+        download and use our application to avoid weird interaction and the feeling of shame.
+        KunGadi uses bus route data to provide you with the best possible path of travel for public travel.</p>
+    </div>
+  </section>
+
+  <!-- Section Footer -->
+  <footer class="footer-class" id="footer">
+    <div class="row">
+      <div class="footer-content col-md-6 col-sm-12">
+        <h2 class="footer-heading">Find us at:</h2>
+        <div class="socials">
+          <ul>
+            <li>
+              <a href="#"><i class="fab fa-facebook footer-icon"></i> @BnW|Ts</a>
+            </li>
+            <li>
+              <a href="#"><i class="fab fa-instagram footer-icon"></i> @BnW|Ts</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-content col-md-6 col-sm-12">
+        <h2 class="footer-heading">Address:</h2>
+        <div class="address">
+          <ul>
+            <li>
+              <a href="">
+                <i class="fas fa-map-marker" aria-hidden="true"></i> Khasibazar, Kirtipur, Kathmandu.
+              </a>
+            </li>
+            <li>
+              <a href="">
+                <i class="fas fa-map-marker" aria-hidden="true"></i> Khasibazar, Kirtipur, Kathmandu.
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="row footer-bottom">
+      <div class="col">
+        <p">copyright &copy;2021 ourcode. designed by <u>ME.</u></p>
+      </div>
+    </div>
+  </footer>
+
+</body>
+
+<?php include_once 'assets/php/partials/_footer.php' ?>
+
+</html>
