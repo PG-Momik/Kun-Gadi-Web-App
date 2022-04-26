@@ -21,4 +21,7 @@
 # Screenshots
 
 ### Home 
-<img src="github.com/PG-Momik/screenshots/home.jpg">
+![](screenshots/home.jpg)
+
+### Users
+![](screenshots/User.jpg)
