@@ -25,3 +25,15 @@
 
 ### Users
 <img src="./screenshots/User.jpg" width="600px">
+
+### Single User
+<img src="./screenshots/home.jpg" width="600px">
+
+### Nodes
+<img src="./screenshots/Nodes.jpg" width="600px">
+
+### Single Node
+<div>
+<img src="./screenshots/single_node.jpg" style="width:50%">
+<img src="./screenshots/single_node_edit.jpg" style="width:50%">
+</div>
