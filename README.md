@@ -21,7 +21,7 @@
 # Screenshots
 
 ### Home 
-![](screenshots/home.jpg =600x900)
+<img src="./screenshots/home.jpg" width="600px">
 
 ### Users
-![](screenshots/User.jpg =600x400)
+<img src="./screenshots/User.jpg" width="600px">
