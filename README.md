@@ -54,7 +54,7 @@
 <img src="./screenshots/edit_single_route.jpg" width="600px">
 
 ### Node Contributions
-<img src="./screenshots/contribuion_node.jpg" width="600px">
+<img src="./screenshots/contribution_node.jpg" width="600px">
 
 ### View single Contribution
 <img src="./screenshots/single_contribution_node.png" width="600px">
@@ -63,4 +63,4 @@
 <img src="./screenshots/contribution_route.jpg" width="600px">
 
 ### View single Contributions
-<img src="./screenshots/single_route_contribution.png" width="600px">
+<img src="./screenshots/single_contribution_route.png" width="600px">
