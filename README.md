@@ -27,13 +27,40 @@
 <img src="./screenshots/User.jpg" width="600px">
 
 ### Single User
-<img src="./screenshots/home.jpg" width="600px">
+<img src="./screenshots/Single_user.png" width="600px">
 
 ### Nodes
 <img src="./screenshots/Nodes.jpg" width="600px">
 
-### Single Node
-<div>
-<img src="./screenshots/single_node.jpg" style="width:50%">
-<img src="./screenshots/single_node_edit.jpg" style="width:50%">
-</div>
+### Add single Node
+<img src="./screenshots/create_new.png" width="600px">
+
+### View single Node
+<img src="./screenshots/single_node.jpg" width="600px">
+
+### Edit single Node
+<img src="./screenshots/single_node_edit.jpg" width="600px">
+
+### Routes
+<img src="./screenshots/route.jpg" width="600px">
+
+### Add single Route
+<img src="./screenshots/new_route.jpg" width="600px">
+
+### View single Route
+<img src="./screenshots/single_route.jpg" width="600px">
+
+### Edit single Route
+<img src="./screenshots/edit_single_route.jpg" width="600px">
+
+### Node Contributions
+<img src="./screenshots/contribuion_nodes.jpg" width="600px">
+
+### View single Contribution
+<img src="./screenshots/single_contribution_node.png" width="600px">
+
+### Route Contributions
+<img src="./screenshots/contribution_route.jpg" width="600px">
+
+### View single Contributions
+<img src="./screenshots/single_route_contribution.png" width="600px">
