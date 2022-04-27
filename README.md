@@ -27,7 +27,7 @@
 <img src="./screenshots/User.jpg" width="600px">
 
 ### Single User
-<img src="./screenshots/Single_user.png" width="600px">
+<img src="./screenshots/Snigle_user.png" width="600px">
 
 ### Nodes
 <img src="./screenshots/Nodes.jpg" width="600px">
@@ -54,7 +54,7 @@
 <img src="./screenshots/edit_single_route.jpg" width="600px">
 
 ### Node Contributions
-<img src="./screenshots/contribuion_nodes.jpg" width="600px">
+<img src="./screenshots/contribuion_node.jpg" width="600px">
 
 ### View single Contribution
 <img src="./screenshots/single_contribution_node.png" width="600px">
