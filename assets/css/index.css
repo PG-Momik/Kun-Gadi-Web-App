@@ -21,7 +21,6 @@ h1 {
   font-size: 3.5rem;
   line-height: 1.5;
 }
-
 #top-navbar {
   color: var(--white);
   background: var(--ali-black);
@@ -56,16 +55,15 @@ h1 {
 
 #admin-content {
   display: flex;
+  height: 100%;
 }
+
 .admin-left {
-  width: 15%;
-  background: var(--navy-blue);
   position: absolute;
-  margin-top: 10vh;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  min-height: 800px;
+  min-width: 15vw;
+  height: 147vh;
+  min-height: inherit;
+  background: var(--navy-blue);
   padding-top: 40px;
 }
 .admin-left > ul > li {
@@ -76,15 +74,11 @@ h1 {
   font-size: 1.2rem;
 }
 .admin-right {
-  width: 85%;
+  width: 85vw;
+  height: 147vh;
   background: white;
-  position: absolute;
-  margin-top: 10vh;
+  position: relative;
   margin-left: 15%;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  min-height: 800px;
   background-color: var(--ali-grey);
   padding: 20px 50px;
 }
@@ -220,4 +214,8 @@ section > div {
 .socials {
   display: flex;
   flex-direction: column;
+}
+
+.nav-link:hover {
+  color: grey;
 }
