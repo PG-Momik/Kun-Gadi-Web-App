@@ -23,7 +23,7 @@
 ### Home 
 <img src="./screenshots/home.jpg" width="600px">
 
-###
+### Dashboard
 <img src="./screenshots/dashboard.png" width="600px">
 
 ### Users
