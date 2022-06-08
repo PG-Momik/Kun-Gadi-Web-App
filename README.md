@@ -23,6 +23,9 @@
 ### Home 
 <img src="./screenshots/home.jpg" width="600px">
 
+###
+<img src="./screenshots/dashboard.png" width="600px">
+
 ### Users
 <img src="./screenshots/User.jpg" width="600px">
 
